@@ -46,7 +46,7 @@ exports.getUrl = getUrl;
 exports.getStreamContent = getStreamContent;
 const cheerio = __importStar(require("cheerio"));
 let BASEDOM = "https://cloudnestra.com";
-const SOURCE_URL = "https://vidsrc.xyz/embed";
+const SOURCE_URL = "https://vixsrc.to";
 function serversLoad(html) {
     return __awaiter(this, void 0, void 0, function* () {
         var _a, _b, _c;
